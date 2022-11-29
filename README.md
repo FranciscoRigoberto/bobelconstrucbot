@@ -7,10 +7,10 @@
 
 
 ## Integrantes
-- <Integrante 1> - <Facultad>
-- <Integrante 2> - <Facultad>
-- <Integrante 3> - <Facultad>
-- <Integrante 4> - <Facultad>
+- Francisco Álvarez - <FCFM>
+- Alejandro Mori - <FCFM>
+- Agustin Montero - <FCFM>
+- Alfredo Waught - <FCFM>
 
 
 ## Descripción del proyecto
