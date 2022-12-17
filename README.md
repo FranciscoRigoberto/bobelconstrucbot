@@ -1,5 +1,5 @@
 # El Bicho - 2022
-<Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
+"El Bicho" es un robot de combate diseñado para participar de batallas al estilo "battlebot", una competencia de pequeños robots que luchan entre si.
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
 ![Robot Ejemplo](/multimedia/robot_ejemplo.png)
