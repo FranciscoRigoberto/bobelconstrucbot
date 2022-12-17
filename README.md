@@ -16,10 +16,10 @@
 
 ### Estrategia utilizada
 #### Ofensiva
-<Explicar brevemente el arma utilizada.>
+El robot tiene un rodillo con muescas y cortes que gira hacia arriba, de manera que al entrar en contacto con el oponente, este sufra un golpe que lo levante del suelo. La idea del arma es voltear al oponente si es posible.
 
 #### Defensiva
-<Explicar el modo de defensa del robot.>
+La coraza que tiene el robot debe ser altamente resistente, ya que al momento de defenderse, "El bicho" querrá mover al oponente usando la fuerza de sus ruedas. Las 6 ruedas que lleva el robot tienen la finalidad de generar más roce con el piso, de manera que la máquina pueda mover con mayor facilidad al contrincante hacia donde quiere, como las trampas de la arena por ejemplo. 
 
 ### Diagrama funcional
 <Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
