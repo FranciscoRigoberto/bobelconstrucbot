@@ -1,2 +1,3 @@
 # Lluvia de Ideas
-![Lluvia de ideas](/multimedia/Lluvia de ideas.jpeg)
+
+![Imagen ideas](/multimedia/Lluvia de ideas.jpeg)
