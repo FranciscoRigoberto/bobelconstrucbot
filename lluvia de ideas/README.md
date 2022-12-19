@@ -1,3 +1,3 @@
 # Lluvia de Ideas
 
-![Imagen ideas](/multimedia/Lluvia de ideas.jpeg)
+![Robot Ejemplo](/multimedia/Lluvia_de_ideas.jpeg)
