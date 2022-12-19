@@ -24,8 +24,6 @@ La coraza que tiene el robot debe ser altamente resistente, ya que al momento de
 ### Diagrama funcional
 ![Diagrama Ejemplo](/multimedia/Diagrama.png)
 
-
-### *BONUS*: Paso a Paso
 En el diagrama podemos asociarlo a ver el bot desde arriba de izquierda a derecha, los motores que se ven arriba son una línea y los de abajo son otra línea de ruedas, por eso, en el código hace que arriba y abajo se muevan al unísonos. En el código vemos que combinación hace que avance, retroceda y gire en un sentido u otro. Por último tenemos el la “punta” el motor que funciona con un relé, para poder utilizar mayor voltaje sin poner en riesgo el arduino.
 
 ## Licencia
