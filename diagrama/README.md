@@ -1,2 +1,2 @@
 # Diagrama electromecánico
-![Diagrama Ejemplo](/multimedia/Da.png)
+![Diagrama Ejemplo](/multimedia/Diagrama.png)
